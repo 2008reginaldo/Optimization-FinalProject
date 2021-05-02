@@ -1,2 +1,2 @@
 # Otimização de Sistemas - Projeto-Final
-O Presente projeto é parte do requisito para aprovação na disciplina de Otimização de Sistemas CPGEI-UTFPR
+Este projeto é parte do requisito para aprovação na disciplina de Otimização de Sistemas CPGEI-UTFPR
